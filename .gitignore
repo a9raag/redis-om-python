@@ -134,7 +134,7 @@ data
 .install.stamp
 
 # Sync version of the library, via Unasync
-redis_om/
+#redis_om/
 tests_sync/
 
 # Apple Files
